@@ -1,0 +1,6 @@
+{
+  "name": "Iapplication.GitHub.io",
+  "tagline": "",
+  "body": "### Welcome to our open source iApplication website.\r\nThis package contains an iOS implementation of a real-time chat application. You can find the open source code here : ([iTalk](https://github.com/iApplication/iTalk))\r\n\r\n### Description\r\n\r\n* Clean: Code is very succinct. There are little nasty guarding code that distracts readers' attention.\r\n* Easy to learn: The code is heavily commented.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
